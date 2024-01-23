@@ -1,0 +1,1 @@
+This Python Project is designed to predict the ball by observing the way it is being held. It can be a full toss, in swinger, out swinger, etc. For this, I created the dataset of almost 2500 images, 500 for each gesture.
