@@ -1,0 +1,4 @@
+0 Fast
+1 Slow
+2 Leg Cutter
+3 Off Cutter
